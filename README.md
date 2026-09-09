@@ -1,4 +1,4 @@
-#Depth-Guided Video Anomaly Detection Using Compact Representation of Spatio-Temporal Features
+# Depth-Guided Video Anomaly Detection Using Compact Representation of Spatio-Temporal Features
 
 ## Overview
 This repository contains the official PyTorch implementation of the paper **"Depth-Guided Video Anomaly Detection Using Compact Representation of Spatio-Temporal Features"** (Habib Ebadi Namin, Reza Kharghanian, and Alireza Ahmadyfard).
