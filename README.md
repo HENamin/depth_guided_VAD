@@ -13,7 +13,7 @@ Best frame-level Area Under the ROC Curve (AUC-ROC %) performance comparing mode
 
 | Benchmark Dataset | Method / Architecture | Without Depth AUC (%) | With Depth AUC (%) |
 | :--- | :--- | :---: | :---: |
-| **UCSD Ped2** | Ours ( |**95.16%** |  |
+| **UCSD Ped2** | Ours |**95.16%** |  |
 | **Avenue** | Ours  | 84.84% | **85.81%** |
 | **SUT Anomaly** | Ours| 69.61% | **74.39%** |
 
